@@ -9,5 +9,6 @@ package javateamproject;
  * @author Dania
  */
 public class dania {
+    int x;
    
 }
